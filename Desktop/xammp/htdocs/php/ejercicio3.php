@@ -5,8 +5,11 @@
         "Hoy es jueves"
 
         "Hoy es jueves 6 de octubre de 2022"
+
+
+        echo date ("m \d\\e Y");
     */
-    echo date ("m \d\\e Y");
+    
 
 
 

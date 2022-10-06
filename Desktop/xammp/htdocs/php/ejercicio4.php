@@ -1,3 +1,6 @@
+
+<h1>Ejercicio 4<h1>
+
 <?php
     /*
         Usar la estructura switch para mostrar la 
